@@ -1,0 +1,7 @@
+<resources>
+        <color name="purple_500">#CCADF8</color>
+        <color name="purple_700">#3700B3</color>
+        <color name="teal_200">#CE6159</color>
+        <color name="teal_700">#C8EFEE</color>
+        <color name="background_color">#FFFFFF</color> <!-- Add this line -->
+</resources>
